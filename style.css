@@ -1,0 +1,70 @@
+#day,
+#months,
+#years {
+    width: 30px;
+}
+
+#search-blok {
+    top: 50px;
+    position: relative;
+}
+
+#divik {
+    font-size: 25px;
+    top: 30px;
+    left: 20px;
+    position: absolute;
+}
+
+#divik1 {
+    font-size: 25px;
+    top: 60px;
+    left: 20px;
+    position: absolute;
+}
+
+#divik2 {
+    font-size: 25px;
+    top: 90px;
+    left: 20px;
+    position: absolute;
+}
+
+#divik3 {
+    font-size: 25px;
+    top: 120px;
+    left: 20px;
+    position: absolute;
+}
+
+#divik4 {
+    font-size: 25px;
+    top: 150px;
+    left: 20px;
+    position: absolute;
+}
+
+#divik5 {
+    font-size: 25px;
+    top: 150px;
+    left: 147px;
+    position: absolute;
+}
+
+#divik6 {
+    font-size: 25px;
+    top: 150px;
+    left: 181px;
+    position: absolute;
+}
+
+#searchAll{
+    display: none;
+}
+
+#but{
+    position: absolute;
+    left: 900px;
+    top: 8px;
+}
+
